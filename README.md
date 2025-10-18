@@ -44,11 +44,13 @@ Implementation of a **Random Forest classification model** to predict whether a 
 ---
 
 ## 🚀 Repository Structure
-'''
+
 Data_Science_British-Airways/
-├── Task1/
-│   └── (Files related to Lounge Eligibility Modeling)
-├── Task2/
-│   └── (Files related to Customer Booking Prediction)
+├── lounge-eligibility-model/
+│   ├── README.md             <- Specific README for Task 1
+│   └── ...                   <- Code, data, notebooks for Lounge Model
+├── customer-booking-prediction/
+│   ├── Getting Started.ipynb <- Main ML notebook for Task 2
+│   ├── README.md             <- Specific README for Task 2
+│   └── ...                   <- Outputs, scripts, data
 └── README.md
-'''
